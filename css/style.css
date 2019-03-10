@@ -375,7 +375,7 @@ body {
   font-weight: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  line-height: 1.5;
+  line-height: 1;
   color: #34495e;
   background: #fefefe;
   scroll-behavior: smooth;
@@ -517,7 +517,7 @@ h6 {
 .post {
   padding: 1.5em 0; }
   .post + .post {
-    border-top: 1px solid #e6e6e6; }
+    border-top: 5px 50 #e6e6e6; }
   .post .post-header {
     margin-bottom: 20px; }
     .post .post-header .post-title {
@@ -943,7 +943,7 @@ h6 {
     border-top: 1px solid #e6e6e6;
     font-family: Athelas, STHeiti, Microsoft Yahei, serif; }
     .post .post-footer .post-tags {
-      padding: 15px 0; }
+      padding: 10px 0; }
       .post .post-footer .post-tags a {
         margin-right: 5px;
         color: #16982B;
